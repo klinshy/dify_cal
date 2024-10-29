@@ -1,4 +1,4 @@
-projeto elaborado durante as aula: 
+Projeto elaborado durante as aula: 
 
 O que é Dify?
 Dify é uma plataforma de desenvolvimento de aplicativos de IA de baixo código e visual, que permite criar aplicações de IA multi-agente e de Recuperação de Informação (RAG). Desenvolvida em Python, Dify é totalmente personalizável e agnóstica a qualquer modelo, API ou banco de dados2. Ela oferece uma interface gráfica intuitiva que facilita a criação e prototipagem de soluções de IA, mesmo para aqueles sem habilidades técnicas avançadas.
