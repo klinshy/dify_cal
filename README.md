@@ -1,20 +1,8 @@
-Projeto elaborado durante as aula: 
-
-O que é Dify?
-Dify é uma plataforma de desenvolvimento de aplicativos de IA de baixo código e visual, que permite criar aplicações de IA multi-agente e de Recuperação de Informação (RAG). Desenvolvida em Python, Dify é totalmente personalizável e agnóstica a qualquer modelo, API ou banco de dados2. Ela oferece uma interface gráfica intuitiva que facilita a criação e prototipagem de soluções de IA, mesmo para aqueles sem habilidades técnicas avançadas.
-
-O que é Cal.com?
-Cal.com é uma plataforma de agendamento de código aberto que permite compartilhar um link pessoal e agendar reuniões com qualquer pessoa em um horário que funcione para ambos. Você pode conectar seus calendários, definir sua disponibilidade e automatizar lembretes e fluxos de trabalho4.
-
-Vantagens de Usar Chatbots com Dify e Cal.com
-Facilidade de Integração: Dify facilita a integração de chatbots em seus projetos, permitindo que você adicione funcionalidades de IA sem precisar de habilidades avançadas de programação.
-
-Automatização de Agendamentos: Com Cal.com, você pode automatizar o agendamento de reuniões e consultas, melhorando a eficiência e a experiência do usuário.
-
-Personalização: Ambas as plataformas permitem personalizar as interações com os usuários, oferecendo respostas personalizadas e relevantes.
-
-Acesso a IA Avançada: Dify oferece acesso a modelos de linguagem de grande porte (LLMs), permitindo que você crie chatbots mais inteligentes e capazes de lidar com uma ampla gama de tarefas.
-
-Produtividade: Ao automatizar tarefas repetitivas e simplificar o agendamento, você pode aumentar a produtividade e focar em outras atividades importantes.
-
-
+Project developed in class:
+What is Dify? Dify is a low-code, visual AI application development platform that allows you to create multi-agent AI and Information Retrieval (RAG) applications. Developed in Python, Dify is fully customisable and agnostic to any model, API or database2. It offers an intuitive graphical interface that makes it easy to create and prototype AI solutions, even for those without advanced technical skills.
+What is Cal.com? Cal.com is an open source scheduling platform that allows you to share a personal link and schedule meetings with anyone at a time that works for both of you. You can connect your calendars, set your availability and automate reminders and workflows4.
+Advantages of Using Chatbots with Dify and Cal.com Ease of Integration: Dify makes it easy to integrate chatbots into your projects, allowing you to add AI functionality without needing advanced programming skills.
+Scheduling automation: With Cal.com, you can automate the scheduling of meetings and appointments, improving efficiency and the user experience.
+Personalisation: Both platforms allow you to personalise interactions with users, offering personalised and relevant responses.
+Access to Advanced AI: Dify offers access to large language models (LLMs), allowing you to create smarter chatbots capable of handling a wide range of tasks.
+Productivity: By automating repetitive tasks and simplifying scheduling, you can increase productivity and focus on other important activities.
